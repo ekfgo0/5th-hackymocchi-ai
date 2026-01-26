@@ -32,4 +32,4 @@ chroma_data/
 # --- macOS 시스템 파일 ---
 .DS_Store
 
-.hackymocchi_vector_data_optimized.json
+hackymocchi/data/hackymocchi_vector_data_optimized.json
